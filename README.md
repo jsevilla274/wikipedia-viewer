@@ -1,1 +1,2 @@
 # [Live demo](https://jsevilla274.github.io/wikipedia-viewer)
+Simply type in a topic you wish to search in the search bar and hit enter to retrieve a collection of related Wikipedia articles or click on the dice icon to visit a random Wikipedia article.
